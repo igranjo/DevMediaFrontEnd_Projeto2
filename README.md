@@ -1,4 +1,4 @@
-# Projeto 2 - A Era Artificial
+# Project 2 - A Era Artificial
 ## HTML+CSS:  DevMedia and Potência Tech by Ifood
 
 ## Features
